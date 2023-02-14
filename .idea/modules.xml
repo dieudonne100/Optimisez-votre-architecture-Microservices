@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Optimisez-votre-architecture-Microservices.iml" filepath="$PROJECT_DIR$/.idea/Optimisez-votre-architecture-Microservices.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microservice-commandes/mcommandes/mcommandes.iml" filepath="$PROJECT_DIR$/microservice-commandes/mcommandes/mcommandes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microservice-paiement/mpaiement/mpaiement.iml" filepath="$PROJECT_DIR$/microservice-paiement/mpaiement/mpaiement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/microservice-produits/mproduits/mproduits.iml" filepath="$PROJECT_DIR$/microservice-produits/mproduits/mproduits.iml" />
     </modules>
   </component>
 </project>
